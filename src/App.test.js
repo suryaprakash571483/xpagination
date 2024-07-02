@@ -61,7 +61,7 @@ const Pagination = () => {
       </table>
       <div id="pagination">
         <button onClick={handlePreviousPage} >
-          back
+          previous
         </button>
         <span> {currentPage} </span>
         <button
